@@ -31,6 +31,7 @@
     "lint-staged": "^13.2.1",
     "pnpm": "^8.2.0",
     "simple-git-hooks": "^2.8.1",
+    "tailwindcss": "^3.3.1",
     "taze": "^0.9.1",
     "typescript": "^5.0.4",
     "unplugin-auto-import": "^0.15.2",
